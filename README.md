@@ -1,4 +1,4 @@
-# DLJ-2: Debiased LLM-as-a-Judge for Logic Model Evaluation in Japanese Government Reviews
+# DLJ-2: Debiased LLM-as-a-Judge 2 stage framework
 
 This repository contains the code, data, and evaluation scripts for our study:
 
