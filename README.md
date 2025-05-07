@@ -14,13 +14,11 @@ We propose a two-stage framework—DLJ-2—that combines large language model (L
 ## 📂 Repository Structure
 
 ```
-├── src/                  # DLJ-2 implementation (scoring + debiasing)
+│
 ├── notebooks/            # Analysis notebooks (Bayesian model, plots)
 ├── data/
 │   ├── raw/              # Raw RS data (external link)
-│   └── processed/        # Cleaned logic models and LLM outputs
-├── models/
-│   └── prompts/          # Prompt examples and GPT-4o responses
+│   └── dtm/        # Cleaned logic models and LLM outputs
 ├── docs/                 # Figures, tables, and LaTeX fragments
 ├── LICENSE               # MIT License (for code)
 └── README.md             # You're here
